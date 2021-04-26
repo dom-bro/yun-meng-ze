@@ -296,8 +296,6 @@ export default {
 }
 </script>
 <style lang="less" scoped>
-  @import "~@/assets/colors";
-
   .modal-title {
     font-size: 16px;
     font-family: PingFangSC-Semibold, PingFang SC;
@@ -353,7 +351,7 @@ export default {
 
         .link {
           cursor: pointer;
-          color: @green-blue;
+          color: blue;
         }
       }
     }
@@ -389,7 +387,7 @@ export default {
             }
 
             .active {
-              color: @green-blue;
+              color: blue;
             }
           }
         }
@@ -440,7 +438,7 @@ export default {
 
               &.checked {
                 .iconfont {
-                  color: @green-blue;
+                  color: blue;
                 }
               }
             }
