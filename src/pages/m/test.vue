@@ -1,6 +1,6 @@
 <template>
   <div>
-    push origin
+    push origin named
   </div>
 </template>
 <script>
