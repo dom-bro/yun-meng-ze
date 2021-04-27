@@ -1,23 +1,14 @@
 <template>
   <div>
-    <uploader></uploader>
+    uploader
   </div>
 </template>
 <script>
-import uploader from '@/components/meng/uploader'
 export default {
-  components: {
-    uploader
-  },
+  props: {},
+  components: {},
   data () {
-    return {
-      model: {},
-      constants: {},
-      popup: {},
-      loading: {},
-      helper: {},
-      selected: {},
-    }
+    return {}
   },
   methods: {},
   computed: {},
