@@ -2,7 +2,8 @@ const pages = [
   'src/pages/ele/ElementUISpec.vue',
   'src/pages/ant/AntDesignVueSpec.vue',
   'src/pages/componentSpec/PowerfulTextareaSpec.vue',
-  'src/pages/componentSpec/OnelineWithPopoverSpec.vue'
+  'src/pages/componentSpec/OnelineWithPopoverSpec.vue',
+  'src/pages/m/test.vue'
 ]
 
 export default {
